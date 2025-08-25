@@ -1,0 +1,6 @@
+flask
+flask-session
+python-dotenv
+google-generativeai
+qdrant-client
+pypdf
