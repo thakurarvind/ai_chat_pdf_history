@@ -4,3 +4,90 @@ python-dotenv
 google-generativeai
 qdrant-client
 pypdf
+
+
+
+
+
+Here are some sample prompts you can use:
+
+ General Eligibility Queries
+
+“Based on the applicant’s salary and credit score, should this loan be approved or not?”
+
+“Evaluate the loan eligibility of this applicant and suggest whether to approve or reject.”
+
+“Does the applicant meet the criteria for a high loan eligibility score?”
+
+ Specific Applicant Queries
+
+“Should the loan request of Ramesh Kumar for ₹5,00,000 be approved?”
+
+“Priya Sharma has a salary of ₹1,20,000 and a credit score of 810. Can she be given ₹12,00,000 loan?”
+
+“Arjun Verma is requesting ₹3,00,000 with a credit score of 650. Is he eligible?”
+
+ Comparative Queries
+
+“Between Priya Sharma and Arjun Verma, who is more eligible for a higher loan amount?”
+
+“Rank the top 3 applicants with the best loan approval chances.”
+
+ Risk Analysis Queries
+
+“Identify applicants with high default risk based on their credit score.”
+
+“Which applicants should be rejected due to weak credit history?”
+
+“List all applicants who fall in the ‘Moderate’ loan eligibility category.”
+
+ These prompts will let you test different aspects of your AI agent (approval decision, ranking, filtering, risk detection).
+
+Do you also want me to give you a ready-made prompt sheet (PDF/Word) with 20–25 such test prompts that you can reuse directly for testing?
+
+I prefer this response
+ChatGPT
+Response 2
+
+Got it  You want prompt sentences that you can use to test your AI agent with the financial credit score PDF.
+Here are some useful query examples in natural language:
+
+ Loan Eligibility Check
+
+“Should we approve the loan for Ramesh Kumar based on his salary and credit score?”
+
+“Is Priya Sharma eligible for her requested loan amount?”
+
+“Check if Arjun Verma’s financial details support a loan approval.”
+
+ Comparison Queries
+
+“Who has the highest credit score among all applicants?”
+
+“Compare the loan eligibility of Simran Kaur and Rohit Mehta.”
+
+“Which applicant has the lowest salary but is still eligible for a high loan?”
+
+ Risk Assessment
+
+“Identify applicants who might be risky for loan approval.”
+
+“List all applicants with credit scores below 700.”
+
+“Who has an average credit history and requested loan above ₹5,00,000?”
+
+ Filtering Queries
+
+“Show all applicants working in IT-related organizations.”
+
+“List female applicants with credit score above 800.”
+
+“Find applicants with a salary above ₹1,00,000.”
+
+ Summarization Queries
+
+“Summarize the loan eligibility of all applicants.”
+
+“Give me a list of all applicants with name, organization, and loan eligibility in a table.”
+
+“Provide a summary report of applicants eligible for High loan approval.”
